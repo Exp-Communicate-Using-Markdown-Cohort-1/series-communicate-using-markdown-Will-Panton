@@ -11,3 +11,11 @@ def greet(name):
 
 print(greet("Dachshund"))
 ```
+
+# Dachshund Task List
+
+- [ ] Research the history of Dachshunds
+- [ ] Find and share images of Dachshunds
+- [ ] Write about the different coat varieties of Dachshunds
+- [ ] Describe the typical characteristics and traits of Dachshunds
+- [ ] Share fun facts about Dachshunds
